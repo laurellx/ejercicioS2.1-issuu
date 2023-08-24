@@ -39,6 +39,10 @@ button.google, .facebook {
     border: none;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 .google {
     background-color: #3f7ee7;
     margin-right: 10px;
